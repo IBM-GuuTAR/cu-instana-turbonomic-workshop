@@ -9,7 +9,7 @@ Please Select Language
 
 ## Description
 
-Partner workshop for IBM Instana & Turbonomic (**Not for Customer!**)
+Partner workshop for IBM Instana & Turbonomic (**Please don't share Customer!**)
 
 Start from product installation to learn about core capabilities.
 

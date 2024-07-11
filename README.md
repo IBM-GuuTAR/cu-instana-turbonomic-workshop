@@ -20,6 +20,6 @@ Start from product installation to learn about core capabilities.
 
 ## Let's get start!
 
-Day 1 Workshop 👉 [Click Here](./day1/README.md)
+Day 1: Instana Workshop 👉 [Click Here](./day1/README.md)
 
-Day 2 Workshop 👉 [Click Here](./day2/README.md)
+Day 2: Turbonomic Workshop 👉 [Click Here](./day2/README.md)

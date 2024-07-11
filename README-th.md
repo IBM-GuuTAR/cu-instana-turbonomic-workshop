@@ -20,6 +20,6 @@ IBM Instana & Turbonomic workshop สำหรับ partner (**ไม่สา�
 
 ## เริ่มต้น!
 
-Workshop วันที่ 1 👉 [Click Here](./day1/README.md)
+วันที่ 1: Instana Workshop 👉 [Click Here](./day1/README.md)
 
-Workshop วันที่ 2 👉 [Click Here](./day2/README.md)
+วันที่ 2: Turbonomic Workshop 👉 [Click Here](./day2/README.md)

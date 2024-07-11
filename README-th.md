@@ -9,17 +9,18 @@
 
 ## คำอธิบาย
 
-IBM Instana & Turbonomic workshop สำหรับ partner (**ไม่สามารถแชร์ให้กับลูกค้า!**)
+IBM Instana & Turbonomic workshop สำหรับ IBM Partner (**ไม่สามารถแชร์ให้กับลูกค้า!**)
 
 โดยจากเรียนรู้วิธีการติดตั้งไปจนถึงเรียนรู้การทำงานต่างๆของ Product.
 
 ## เอกสารต่างๆ
-1. Box 👉 [Click Here](https://computerunion.box.com/s/0sdyo8nlxqp8i07wp3gnop3mkn0y80h2)
-   
-2. Slido 👉 [Click Here](https://app.sli.do/event/bmYCsrLxxwYQTEfqz3ep5e)
+
+1. Box 👉 [คลิกที่นี่](https://computerunion.box.com/s/0sdyo8nlxqp8i07wp3gnop3mkn0y80h2)
+
+2. Slido 👉 [คลิกที่นี่](https://app.sli.do/event/bmYCsrLxxwYQTEfqz3ep5e)
 
 ## เริ่มต้น!
 
-วันที่ 1: Instana Workshop 👉 [Click Here](./day1/README.md)
+วันที่ 1: Instana Workshop 👉 [คลิกที่นี่](./day1/README.md)
 
-วันที่ 2: Turbonomic Workshop 👉 [Click Here](./day2/README.md)
+วันที่ 2: Turbonomic Workshop 👉 [คลิกที่นี่](./day2/README.md)

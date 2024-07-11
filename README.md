@@ -9,13 +9,14 @@ Please Select Language
 
 ## Description
 
-Partner workshop for IBM Instana & Turbonomic (**Please don't share Customer!**)
+IBM Instana & Turbonomic workshop for IBM Partner (**Please don't share Customer!**)
 
-Start from product installation to learn about core capabilities.
+Start from learning how to installation and product core capabilities.
 
-## Workshop material
+## Workshop materials
+
 1. Box 👉 [Click Here](https://computerunion.box.com/s/0sdyo8nlxqp8i07wp3gnop3mkn0y80h2)
-   
+
 2. Slido 👉 [Click Here](https://app.sli.do/event/bmYCsrLxxwYQTEfqz3ep5e)
 
 ## Let's get start!

@@ -268,6 +268,13 @@ We recommend to change mode of agent from `APM` to `INFRA` to reduce resource us
 
 ## 8. Tag & Zone Configuration
 
+After install Instana Agent we can config zone and tag for agent.
+
+- Custom zone are where hosts are grouped into zones on the infrastructure map.
+- Custom tags enable the searching and filtering of tags in the infrastructure map.
+
+### Config agent zone
+
 ```
 sudo touch /opt/instana/agent/etc/instana/configuration-zone.yaml
 ```
@@ -281,6 +288,8 @@ com.instana.plugin.generic.hardware:
   availability-zone: "${INSTANA_ZONE}"
 EOF
 ```
+
+### Config agent tags
 
 ```
 sudo touch /opt/instana/agent/etc/instana/configuration-host.yaml
@@ -297,3 +306,7 @@ EOF
 ```
 
 ![](./assets//infra_dashboard.png)
+
+## Next Topic
+
+Instana Proof of Technology 👉 [Click Here](./topic3/README.md)

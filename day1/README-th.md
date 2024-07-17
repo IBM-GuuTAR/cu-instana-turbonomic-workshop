@@ -3,7 +3,8 @@
 กรุณาเลือกภาษา
 
 [![en](https://img.shields.io/badge/lang-en-green.svg)](./README.md)
-[![th](https://img.shields.io/badge/lang-th-red.svg)](./README-th.md)
+
+<!-- [![th](https://img.shields.io/badge/lang-th-red.svg)](./README-th.md) -->
 
 ## คำอธิบาย
 
